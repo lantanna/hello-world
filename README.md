@@ -1,2 +1,11 @@
-# hello-world
-First repository
+#include <stdlib.h>
+#include <stdio.h>
+
+
+int main(void){
+
+printf("Hello world");
+
+system("pause");
+return 0;
+}
